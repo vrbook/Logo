@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/container"
-    android:background="#81cfe0"
+    android:background="#81cfe1"
     tools:context="ua.email.vrbox.logo.MainActivity">
 
     <TextView
